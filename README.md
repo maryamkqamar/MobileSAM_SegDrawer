@@ -1,4 +1,4 @@
-# SegDrawer
+# This is a fork from [SegDrawer](https://github.com/lujiazho/SegDrawer) integrating [MobileSAM](https://github.com/ChaoningZhang/MobileSAM)
 Simple static web-based mask drawer, supporting semantic drawing with Segment Anything Model ([SAM](https://github.com/facebookresearch/segment-anything)) and Video Segmentation Propagation with [XMem](https://github.com/hkchengrex/XMem).
 
 <table>
